@@ -1,6 +1,7 @@
 ### Hi 👋, i'm Luzia Lobo
 
 ✨ i'm Web Developer Front End
+
 🔮 Aks me about my work
 
 <div align="center">
