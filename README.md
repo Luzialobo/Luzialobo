@@ -1,8 +1,11 @@
 ### Hi 👋, i'm Luzia Lobo
 
  💻 i'm Web Developer Front End
+ 
 🎯 I currently work as a front-end developer
+
 👩‍💻 I'm a member of CDA Girls
+
 📚 I'm a computer engineering student
 
 🔮 Aks me about my work
