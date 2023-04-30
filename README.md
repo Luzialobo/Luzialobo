@@ -1,6 +1,6 @@
 ### Hi 👋, i'm Luzia Lobo
 
- 💻 i'm Web Developer Front End
+ 💻 i'm Front End Developer
  
 🎯 I currently work as a front-end developer
 
